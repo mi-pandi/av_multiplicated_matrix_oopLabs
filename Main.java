@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/**
+ * Multiplying a matrix by a constant value.
+ * Finding an average on each row
+ *
+ * @author Myroslava
+ * @version 1.0
+ */
 public class Main {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
